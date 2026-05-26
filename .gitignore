@@ -1,0 +1,17 @@
+```gitignore
+# Dependencies
+node_modules/
+
+# Editor/IDE files
+.vscode/
+*.swp
+*.swo
+*.tmp
+
+# Logs
+*.log
+
+# Environment
+.env
+*.env.*
+```
